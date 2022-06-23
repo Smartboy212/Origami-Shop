@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    border: 5px dashed  crimson ;
+}
+
+p{
+    border:  5px dashed dodgerblue
+}
+
+ul{
+    border: 5px dashed rgb(0, 255, 179)
+}
+
+ 
